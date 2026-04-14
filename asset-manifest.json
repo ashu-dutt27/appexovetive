@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/appexovetive/static/css/main.27281b84.css",
-    "main.js": "/appexovetive/static/js/main.d80654f2.js",
+    "main.css": "/appexovetive/static/css/main.b2ec4a72.css",
+    "main.js": "/appexovetive/static/js/main.34e9b133.js",
     "static/js/453.ee87fd06.chunk.js": "/appexovetive/static/js/453.ee87fd06.chunk.js",
     "index.html": "/appexovetive/index.html",
-    "main.27281b84.css.map": "/appexovetive/static/css/main.27281b84.css.map",
-    "main.d80654f2.js.map": "/appexovetive/static/js/main.d80654f2.js.map",
+    "main.b2ec4a72.css.map": "/appexovetive/static/css/main.b2ec4a72.css.map",
+    "main.34e9b133.js.map": "/appexovetive/static/js/main.34e9b133.js.map",
     "453.ee87fd06.chunk.js.map": "/appexovetive/static/js/453.ee87fd06.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27281b84.css",
-    "static/js/main.d80654f2.js"
+    "static/css/main.b2ec4a72.css",
+    "static/js/main.34e9b133.js"
   ]
 }
