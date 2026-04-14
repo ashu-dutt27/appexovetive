@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appexovetive/static/css/main.27281b84.css",
+    "main.js": "/appexovetive/static/js/main.a436c009.js",
+    "static/js/453.ee87fd06.chunk.js": "/appexovetive/static/js/453.ee87fd06.chunk.js",
+    "index.html": "/appexovetive/index.html",
+    "main.27281b84.css.map": "/appexovetive/static/css/main.27281b84.css.map",
+    "main.a436c009.js.map": "/appexovetive/static/js/main.a436c009.js.map",
+    "453.ee87fd06.chunk.js.map": "/appexovetive/static/js/453.ee87fd06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27281b84.css",
+    "static/js/main.a436c009.js"
+  ]
+}
