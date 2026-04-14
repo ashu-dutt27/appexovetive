@@ -34,7 +34,7 @@ const PortfolioTrust = () => {
               </h2>
             </div>
             <p className="text-xl [&_a]:text-blue-600 [&_a:hover]:underline">
-              Nadcab Labs empowers 25,000+ blockchain projects.
+              Apexovative empowers 25,000+ blockchain projects.
             </p>
           </div>
 

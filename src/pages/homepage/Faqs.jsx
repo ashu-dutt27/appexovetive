@@ -22,11 +22,11 @@ const faqs = [
     a: "Yes, we provide comprehensive post-launch support, updates, performance monitoring, and feature enhancements."
   },
   {
-    q: "Why choose Nadcab Labs for development?",
-    a: "Nadcab Labs combines deep technical expertise, agile methodologies, and innovative solutions to deliver scalable software."
+    q: "Why choose Apexovative for development?",
+    a: "Apexovative combines deep technical expertise, agile methodologies, and innovative solutions to deliver scalable software."
   },
   {
-    q: "How does Nadcab Labs ensure ethical AI use?",
+    q: "How does Apexovative ensure ethical AI use?",
     a: "We prioritize transparency, fairness, and accountability in AI systems, ensuring ethical data handling and bias-free algorithms."
   },
   {

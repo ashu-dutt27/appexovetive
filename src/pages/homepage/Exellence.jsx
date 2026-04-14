@@ -10,7 +10,7 @@ const Excellence = () => {
             Recognized Excellence Across Leading Platforms
           </h4>
           <p className="text-white/80 text-sm md:text-base leading-relaxed">
-            With top-rated reviews on major industry platforms, Nadcab Labs stands
+            With top-rated reviews on major industry platforms, Apexovative stands
             as a trusted name in blockchain innovation. Our consistent track record
             of delivering scalable, secure, and future-ready solutions has made us
             the preferred technology partner for startups and enterprises worldwide.

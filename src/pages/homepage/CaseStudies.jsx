@@ -6,7 +6,7 @@ const CaseStudies = () => {
       title: "RoninChain",
       date: "Sep 12, 2025",
       description:
-        "Wondering how to build a Layer-1 blockchain for gaming? Nadcab Labs developed RoninChain for Web3 games. Read full case study.",
+        "Wondering how to build a Layer-1 blockchain for gaming? Apexovative developed RoninChain for Web3 games. Read full case study.",
       image: "https://img.nadcab.com/wp-content/uploads/2025/10/Ronin_casestudy.webp",
       link: "/case-study/roninchain-blockchain-for-gaming",
     },

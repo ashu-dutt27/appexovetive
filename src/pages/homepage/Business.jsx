@@ -7,7 +7,7 @@ const Business = () => {
         {/* Heading */}
         <div className="mb-16">
           <h5 className="gradient-text text-xl sm:text-2xl md:text-4xl font-medium mb-4 leading-snug mx-auto">
-            Nadcab Labs Brings Transformation for Global Businesses
+            Apexovative Brings Transformation for Global Businesses
           </h5>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full"></div>
           <p className="text-xl md:text-lg leading-relaxed my-6 max-w-5xl">

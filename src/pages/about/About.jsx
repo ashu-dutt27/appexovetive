@@ -8,7 +8,7 @@ const About = () => {
           <div className="col-span-5">
             <img
               src="https://img.nadcab.com/wp-content/uploads/2024/04/about-nadcab.webp"
-              alt="About Nadcab Labs"
+              alt="About Apexovative"
               className="rounded-xl mb-5 w-full object-cover"
             />
 
@@ -24,7 +24,7 @@ const About = () => {
           {/* RIGHT CONTENT */}
           <div className="col-span-7">
             <h2 className="text-2xl font-semibold text-gray-900 mb-2">
-              About Nadcab Labs
+              About Apexovative
             </h2>
             <p className="text-gray-600 mb-6">
               A leading blockchain company delivering innovative digital
@@ -42,13 +42,13 @@ const About = () => {
               <div>
                 <h4 className="font-semibold text-gray-900">Partner with Us</h4>
                 <p className="text-sm text-gray-600">
-                  Collaborate and grow with Nadcab Labs.
+                  Collaborate and grow with Apexovative.
                 </p>
               </div>
 
               <div>
                 <h4 className="font-semibold text-gray-900">
-                  Nadcab Labs Team
+                  Apexovative Team
                 </h4>
                 <p className="text-sm text-gray-600">
                   Meet the innovators behind our success.

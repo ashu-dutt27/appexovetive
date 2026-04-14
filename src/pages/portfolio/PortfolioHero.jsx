@@ -12,7 +12,7 @@ const PortfolioHero = () => {
             Blockchain & Web3 Project Developed by us!
           </h1>
           <p className="text-foreground/80 text-sm sm:text-base md:text-lg leading-relaxed">
-            Nadcab Labs empowers 25,000+ blockchain projects, enhancing functionality and aesthetics.
+            Apexovative empowers 25,000+ blockchain projects, enhancing functionality and aesthetics.
           </p>
           
           {/* Buttons */}

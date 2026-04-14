@@ -150,7 +150,7 @@ const Navbar = () => {
                 <div className="flex items-center gap-3">
                     {/* Mobile Actions */}
                     <div className="lg:hidden flex items-center gap-3">
-                        <a href="tel:+919870635001" aria-label="Call Nadcab Labs">
+                        <a href="tel:+919870635001" aria-label="Call Apexovative">
                             <div className="w-10 h-10 flex items-center justify-center bg-black text-white shadow-lg rounded-lg">
                                 📞
                             </div>

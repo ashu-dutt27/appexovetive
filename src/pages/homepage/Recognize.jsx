@@ -19,7 +19,7 @@ export default function Recognize() {
                   </div>
                   <h2 className="text-2xl md:text-4xl font-bold mb-4">Recognized by TechBehemoths 2025</h2>
                   <p className="text-muted-foreground text-lg">
-                    Nadcab Labs has been honored as a winner in three prestigious categories at the TechBehemoths Global Excellence Awards 2025.
+                    Apexovative has been honored as a winner in three prestigious categories at the TechBehemoths Global Excellence Awards 2025.
                   </p>
                 </div>
 

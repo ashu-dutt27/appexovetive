@@ -112,7 +112,7 @@ const RapidTechSolutions = () => {
               <div className="w-full lg:w-7/12 flex items-center dark:bg-white dark:text-black dark:shadow-none">
                 <div className="p-6 lg:p-8 space-y-3">
                   <h4 className="font-medium text-xl sm:text-xl md:text-3xl">
-                    Pioneering the AI-Native Future with Nadcab Labs
+                    Pioneering the AI-Native Future with Apexovative
                   </h4>
                   <p className="text-base sm:text-sm [&_a]:text-blue-600">
                     The future of business is intelligent, leveraging AI, from LLMs to MLOps, with our certified experts and customized solutions.
@@ -129,7 +129,7 @@ const RapidTechSolutions = () => {
               <div className="relative w-full lg:w-5/12 h-72">
                 <img
                   src="https://img.nadcab.com/wp-content/uploads/2025/11/ai-native.webp?w=3840&q=75"
-                  alt="AI-Native Future with Nadcab Labs"
+                  alt="AI-Native Future with Apexovative"
                   loading="lazy"
                   className="object-cover w-full h-full absolute inset-0"
                 />
